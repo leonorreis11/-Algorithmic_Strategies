@@ -1,4 +1,4 @@
-**Guards in a gallery**
+<ins>**Guards in a gallery**</ins>
 
 ***Problem***
 
