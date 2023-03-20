@@ -1,7 +1,6 @@
 <ins>**Guards in a gallery**</ins>
 
 ***Problem***
-
 You have to place the minimum number of guards in a long hall of a museum that contains N valuable objects. Each guard can only take care of a range of M meters from his/her location.
 
 The objects' locations are represented in meters from the start of the hall (one coordinate only), being 0 the start of the hall and 100 000 the maximum length of the hall.
