@@ -1,4 +1,4 @@
-Guards in a gallery
+**Guards in a gallery**
 
 Problem
 
