@@ -8,11 +8,12 @@ The objects' locations are represented in meters from the start of the hall (one
 
 Note: For a range M of 10 meters, a guard placed in position 100 guards the hall from position 90 to 110, both inclusive.
 
-Input
-The first line gives the number of test cases. Then, for each test case, the first line contains two numbers: 1 < N < 1000000 number of objects to guard; and 1 < M < 1000, the number of meters each guard covers, for each side. Then, N lines follow, each containing the position of an object in the hall. Note that two objects can be in the same position.
-Output
-For each test case, print the minimal number of guards needed to protect all the objects.
+Input: The first line gives the number of test cases. Then, for each test case, the first line contains two numbers: 1 < N < 1000000 number of objects to guard; and 1 < M < 1000, the number of meters each guard covers, for each side. Then, N lines follow, each containing the position of an object in the hall. Note that two objects can be in the same position.
+
+Output: For each test case, print the minimal number of guards needed to protect all the objects
+
 Example
+
 Input:
 2
 5 3
@@ -25,6 +26,7 @@ Input:
 0
 4
 0
+
 Output:
 2
 1
