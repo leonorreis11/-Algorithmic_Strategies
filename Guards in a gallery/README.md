@@ -15,18 +15,31 @@ Output: For each test case, print the minimal number of guards needed to protect
 Example
 
 Input:
+
 2
+
 5 3
+
 5
+
 2
+
 6
+
 10
+
 0
+
 3 5
+
 0
+
 4
+
 0
 
 Output:
+
 2
+
 1
