@@ -1,6 +1,6 @@
-###Guards in a gallery
+Guards in a gallery
 
-##Problem
+Problem
 
 You have to place the minimum number of guards in a long hall of a museum that contains N valuable objects. Each guard can only take care of a range of M meters from his/her location.
 
@@ -33,7 +33,6 @@ Input:
 3 5
 
 0
-
 4
 
 0
